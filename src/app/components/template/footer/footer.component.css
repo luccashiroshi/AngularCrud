@@ -2,12 +2,14 @@
     position: fixed;
     bottom: 0;
 
+    height: 50px;
     display: flex;
     justify-content: flex-end;
-    padding: 0px 5px;
+    padding: 0px 8px;
+    background-color: black;
 }
 
 .footer span {
     font-weight: 300;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
