@@ -18,3 +18,8 @@ body {
 .v-middle {
     vertical-align: middle;
 }
+
+.succes {
+    background-color: #5fe08c;
+    color: #FFF;
+}

@@ -1,0 +1,12 @@
+mat-card {
+    background-color: #222;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 10px 15px 0 0;
+}
