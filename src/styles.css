@@ -23,3 +23,9 @@ body {
     background-color: #5fe08c;
     color: #FFF;
 }
+
+.error {
+    background-color: #e35e6b;
+    color: #FFF;
+}
+
